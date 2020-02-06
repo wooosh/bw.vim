@@ -1,6 +1,6 @@
 ![Screenshot](screenshot.jpg)
 # bw.vim
-A simple monochrome colorscheme for vim.
+A simple monochrome colorscheme for vim, compatible with light and dark themes. `bw.vim` only bolds control structures and italicizes strings and comments.
 
 # Usage
 1. Install with vim-plug or copy `bw.vim` into `~/.vim/colors/`
