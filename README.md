@@ -1,3 +1,4 @@
+![Screenshot](screenshot.jpg)
 # bw.vim
 A simple monochrome colorscheme for vim.
 
